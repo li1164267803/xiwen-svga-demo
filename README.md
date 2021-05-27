@@ -167,3 +167,4 @@ parser.load("/svga/01.svga", function(videoItem) {
 ### 最后附带一个 demo 的示例地址，喜欢的可以去 gitHub 上下载点赞哦
 
 [https://github.com/li1164267803/xiwen-svga-demo](https://github.com/li1164267803/xiwen-svga-demo)
+[https://li1164267803.github.io/xiwen-svga-demo/dist/index.html](https://li1164267803.github.io/xiwen-svga-demo/dist/index.html)
